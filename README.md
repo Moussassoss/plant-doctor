@@ -11,7 +11,7 @@ Plant Doctor is a React Native application designed to help users diagnose and t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Moussassoss/plant-doctor.git
 2. Navigate to the project directory:
    ```
    cd plant-doctor
@@ -23,7 +23,7 @@ Plant Doctor is a React Native application designed to help users diagnose and t
 ## Usage
 1. Start the development server:
    ```
-   npm start
+   npx expo start
    ```
 2. Open the Expo app on your mobile device and scan the QR code to run the app.
 ## Contributing
